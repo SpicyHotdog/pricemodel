@@ -1,7 +1,7 @@
 # Optimal pricing model using Python data analytic
 ## Model introduction
 * **1. Problem statement**: 
-  * China "Shenzhen Component Index" is currently belong to the undervalued period for the entire year, and show a trend fluctuations based on the undervalued range in the short term. This study focuses on "Shenzhen Component Index". It aims to issue buy recommendations towards related index fund when the price reaches bottom or low range, based on the analysis of price data over the past year. Additionally, this study aims to earn profits from short-term fluctuations.
+  * China "Shenzhen Component Index" is currently belong to the undervalued period for the entire year, showing fluctuation trend based on the undervalued range in the short term. This study focuses on "Shenzhen Component Index". It aims to issue buy recommendations towards related index fund when the price reaches bottom or low range, based on the analysis of price data over the past year. Additionally, this study aims to earn profits from short-term fluctuations.
   * Product used for this study: Shenzhen Component Index 50 ETF LOF fund - (code: 160424). 
   * Why LOF(listed open-ended fund)? - Lower volatility and non-real-time trading avoids frequent trading actions, ideal for new investors learning the market.
 * **2. Modelling**：
