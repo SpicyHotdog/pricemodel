@@ -28,6 +28,7 @@
     <br/> Alternatively, sell strategy can be further divided like when profits between (1% ~3%):sell 20% share quantity, (3% ~ 5%): sell 50%, (over 5%): sell-off.
 
 * **3. Key Implementation Details**：
+* File: PriceModel.py
 ``` python
 # ---- Part I: import required libs ----
 import numpy as np
