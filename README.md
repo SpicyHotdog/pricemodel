@@ -1,4 +1,4 @@
-# Optimal pricing using Python data analytic
+# Optimal pricing model using Python data analytic
 ## Model introduction
 * **1. Problem statement**: 
   * China "Shenzhen Component Index" is currently belong to the undervalued period for the entire year, and show a trend fluctuations based on the undervalued range in the short term. This study focuses on "Shenzhen Component Index". It aims to issue buy recommendations towards related index fund when the price reaches bottom or low range, based on the analysis of price data over the past year. Additionally, this study aims to earn profits from short-term fluctuations.
